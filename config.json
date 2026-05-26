@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokenerocess",
+        "uuid": 5394543,
+        "checksum": "v82avl"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
